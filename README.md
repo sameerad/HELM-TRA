@@ -1,9 +1,22 @@
-# HELM-TRA
 
-On this page, Python code related to an article titled "A Model Based on Machine Learning to Detect Tax Frauds," called the Hybrid Ensemble Learning Model for Tax Risk Assessment (HELM-TRA), by Mehdi SameeRad (RadMehdi2005@gmail.com) will be shared (after the initial acceptance of the mentioned article in the respective journal).
+🔍 Project: HELM-TRA
 
-Contact: ++98914157479
+Hybrid Ensemble Learning Model for Tax Risk Assessment
 
-The text of the Python code and the relevant dataset will be uploaded after approval by supervisors and advisors, as well as upon the issuance of orders by the esteemed referees of the journal associated with the article.
+This repository contains the Python implementation of the model proposed in the article:
+"A Model Based on Machine Learning to Detect Tax Frauds",
+authored by Mehdi SameeRad (📧 RadMehdi2005@gmail.com),
+published in 2025.
 
-Furthermore, to comply with regulations related to the non-disclosure of confidential information from the Iranian government, the dataset has been "ReFabricated" and modified in a way that maintains its standardization, normality, skewness, and other key metrics. Therefore, the dataset is artificially generated (non-real). Thank you.
+📞 Contact: +98 914 157 4579
+📂 Contents
+
+    Source code of HELM-TRA
+
+    Sample (Refabricated) dataset for tax risk modeling
+
+    Usage instructions and system requirements
+
+🔐 Note on Data Privacy
+
+To comply with national regulations and ensure non-disclosure of confidential information from the Iranian government, the dataset used in this project is refabricated and anonymized. While it preserves key statistical properties (normality, skewness, feature distributions, etc.), it does not contain real taxpayer records. The dataset is synthetic and intended for research and demonstration purposes only.
